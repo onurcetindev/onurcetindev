@@ -16,10 +16,9 @@ Hello, I am Onur, a third year Computer Engineering student at Akdeniz Universit
 [![](https://visitcount.itsvg.in/api?id=10urcetin&icon=0&color=0)](https://visitcount.itsvg.in) 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->- 👋 Hi, I’m @10urcetin
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Cloud and AI.
+- 🌱 I’m currently learning Cloud,Docker and Kubernetes.
+- 📫 How to reach me onucetin003@gmail.com
 
 <!---
 10urcetin/10urcetin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
