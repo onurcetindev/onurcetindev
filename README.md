@@ -19,6 +19,7 @@ Hello, I am Onur, a third year Computer Engineering student at Akdeniz Universit
 - 👀 I’m interested in Cloud & DevOps and AI.
 - 🌱 I’m currently learning Cloud,Docker and Kubernetes.
 - 📫 How to reach me onucetin003@gmail.com
+- 🖋️ Writes software articles on Medium.
 
 <!---
 onurcetindev/onurcetindev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
