@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, I am Onur, a third year Computer Engineering student at Akdeniz University. I learned Java and made a few applications in Android Studio, then I learned Flutter in my internship program. Now I am both developing myself for the Cloud & DevOps area and studying for my engineering courses.
+Hello, I am Onur, a third year Computer Engineering student at Akdeniz University. I learned Java and made a few applications in Android Studio, then I learned Flutter in my internship program. Now I am both developing myself for the Cloud & DevOps area and Java Spring Boot and also studying for my engineering courses.
 
 
 ## 🌐 Socials:
