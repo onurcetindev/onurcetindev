@@ -16,7 +16,7 @@ Hello, I am Onur, a fourth year Computer Engineering student at Akdeniz Universi
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->- 👋 Hi, I’m @onurcetindev
 - 👀 I’m interested in Cloud & DevOps and AI.
-- 🌱 I’m currently learning Cloud,Docker and Kubernetes.
+- 🌱 I’m currently learning Cloud,Spring Boot and DevOps.
 - 📫 How to reach me onucetin003@gmail.com
 - 🖋️ Writes software articles on Medium.
 
