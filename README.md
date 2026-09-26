@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hello, I am Onur, a fourth year Computer Engineering student at Akdeniz University. I learned Java and made a few applications in Android Studio, then I learned Flutter in my internship program. Now I am both developing myself for the Cloud & DevOps area and Java Spring Boot and also studying for my engineering courses.
+Hello, I am Cloud.
+Yes, I am Cloud.
 
  👋 Hi, I’m @onurcetindev<br>👀 I’m interested in Cloud & Software.<br>🌱 I’m currently learning Cloud,Spring Boot and DevOps.<br>📫 How to reach me onucetin003@gmail.com<br>🖋️ Writes software articles on Medium.
 
